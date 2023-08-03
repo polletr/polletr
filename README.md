@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @polletr or Renee Pollet
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity and Unreal
+- 🌱 I’m currently learning Unity, Unreal and Game Design
 - 💞️ I’m looking to collaborate on Game Development projects
 - 📫 How to reach me: renee_p_35@hotmail.com or polletr21@gmail.com
