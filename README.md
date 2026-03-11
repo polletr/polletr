@@ -3,5 +3,3 @@
 - I’m currently an expert in Unity and learning Unreal
 - I’m looking to collaborate on Game Development projects
 - How to reach me: renee_p_35@hotmail.com or polletr21@gmail.com
--  https://reneepollet.itch.io/
--  reneepolletportfolio.com
